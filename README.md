@@ -1,6 +1,6 @@
 # Hi there, I’m Alex!
 
-Welcome to my profile!
+### Welcome to my profile!
 
 ![Focus: Accessibility](https://img.shields.io/badge/Focus-Accessibility-blueviolet?style=flat-square)
 ![Value: Collaboration](https://img.shields.io/badge/Value-Collaboration-4b5563?style=flat-square)
