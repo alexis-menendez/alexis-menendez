@@ -7,22 +7,22 @@ Welcome to my profile!
 ## Table of Contents
 
 🔴 [About](#about)  
-   - [Journey](#journey)  
-   - [Now](#now)  
-   - [Fun Facts](#fun-facts--passions)  
-   - [Philosophy](#philosophy)  
+     - [Journey](#journey)  
+     - [Now](#now)  
+     - [Fun Facts](#fun-facts--passions)  
+     - [Philosophy](#philosophy)  
      
 🟠 [Professional](#professional)  
-   - [Skills & Strengths](#skills--strengths)  
-   - [In Development](#in-development)  
-   - [Tech Stack](#tech-stack)  
-   - [Certifications & Education](#certifications--education)  
-   - [Resume](#resume)  
-   - [Pinned Projects](#pinned-projects)  
+     - [Skills & Strengths](#skills--strengths)  
+     - [In Development](#in-development)  
+     - [Tech Stack](#tech-stack)  
+     - [Certifications & Education](#certifications--education)  
+     - [Resume](#resume)  
+     - [Pinned Projects](#pinned-projects)  
      
 🟡 [GitHub-Specific Engagement](#github-specific-engagement)  
-   - [GitHub Stats](#github-stats)  
-   - [Contributions / OSS](#contributions--oss)  
+     - [GitHub Stats](#github-stats)  
+     - [Contributions / OSS](#contributions--oss)  
      
 🟢 [Contact](#contact)  
 
