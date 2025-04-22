@@ -92,16 +92,16 @@ I’m always pushing myself to learn more and grow as a developer.
 Below are tools and technologies I’m currently teaching myself to strengthen my technical toolkit and expand my ability to contribute across the stack.
 
 
-![TypeScript (Advanced)](https://img.shields.io/badge/Learning-TypeScript_Advanced-blue)
-![Framer Motion](https://img.shields.io/badge/Learning-Framer_Motion-purple)
-![Radix UI / ShadCN UI](https://img.shields.io/badge/Learning-Radix_UI_%2F_ShadCN_UI-ff69b4)
-![React Hook Form](https://img.shields.io/badge/Learning-React_Hook_Form-36c5f0)
-![Zustand](https://img.shields.io/badge/Learning-Zustand-f97316)
-![Storybook](https://img.shields.io/badge/Learning-Storybook-e44b97)
-![Prisma ORM](https://img.shields.io/badge/Learning-Prisma_ORM-0c344b)
-![Figma (Advanced)](https://img.shields.io/badge/Learning-Figma_Advanced-a259ff)
-![Design Systems](https://img.shields.io/badge/Learning-Design_Systems-4b5563)
-![Notion (Advanced)](https://img.shields.io/badge/Learning-Notion_Advanced-2f855a)
+![Zustand](https://img.shields.io/badge/Zustand-Learning-f97316)
+![TypeScript (Advanced)](https://img.shields.io/badge/TypeScript_Advanced-Learning-3178c6)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Learning-8a2be2)
+![Radix UI / ShadCN UI](https://img.shields.io/badge/Radix_UI_%2F_ShadCN_UI-Learning-ff69b4)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-Learning-36c5f0)
+![Storybook](https://img.shields.io/badge/Storybook-Learning-e44b97)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-Learning-0c344b)
+![Figma (Advanced)](https://img.shields.io/badge/Figma_Advanced-Learning-a259ff)
+![Design Systems](https://img.shields.io/badge/Design_Systems-Learning-4b5563)
+![Notion (Advanced)](https://img.shields.io/badge/Notion_Advanced-Learning-2f855a)
 
 
 ---
