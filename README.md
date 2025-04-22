@@ -112,7 +112,7 @@ My greatest strengths lie in how I approach problems, people, and projects. Here
 
 ---
 
-### In Developmet
+### In Development
 
 I’m always pushing myself to learn more and grow as a developer. 
 Below are tools and technologies I’m currently teaching myself to strengthen my technical toolkit and expand my ability to contribute across the stack.
@@ -135,7 +135,7 @@ Below are tools and technologies I’m currently teaching myself to strengthen m
 | **Program**                            | **Institution**          | **Year** |
 |----------------------------------------|--------------------------|--------- |
 | Full-Stack Web Development Certificate | Rice University          | 2025     |
-| Associate of Arts in Psychology        | Austin Community College | 2020     |
+| Associate of Arts in Psychology        | Austin Community College | 2025     |
 | Welding & Blacksmithing Program        | Austin Community College | 2020     |
 
 ---
