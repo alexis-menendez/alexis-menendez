@@ -92,22 +92,17 @@ I’m always pushing myself to learn more and grow as a developer.
 Below are tools and technologies I’m currently teaching myself to strengthen my technical toolkit and expand my ability to contribute across the stack.
 
 
-| **Category**              | **Tool**                   | **Why I'm Learning It**                                                                  |
-|---------------------------|----------------------------|------------------------------------------------------------------------------------------|
-| **Languages:**            | TypeScript (Advanced)      | To write safer, scalable code and unlock advanced React and backend patterns             |
-|                           |                            |                                                                                          |
-| **Frontend Development:** | Framer Motion              | To create expressive, animated UI that elevates user experience                          |
-|                           | Radix UI / ShadCN UI       | To build accessible, pre-styled components with full customization control               |
-|                           | React Hook Form            | To simplify form state management and validation                                         |
-|                           | Zustand                    | To manage state in React apps with a clean, intuitive API                                |
-|                           | Storybook                  | To document, test, and develop UI components in isolation                                |
-|                           |                            |                                                                                          |
-| **Backend Development:**  | Prisma ORM                 | To interact with databases using a type-safe and elegant schema-based interface          |
-|                           |                            |                                                                                          |
-| **Design Tools:**         | Figma (Advanced)           | To create high-fidelity prototypes and communicate designs more clearly with dev teams   |
-|                           | Design Systems             | To ensure consistency and scalability across user interfaces                             |
-|                           |                            |                                                                                          |
-| **Project Management:**   | Notion (Advanced)          | To document, plan, and track progress across personal and team-based projects            |
+![TypeScript (Advanced)](https://img.shields.io/badge/Learning-TypeScript_Advanced-blue)
+![Framer Motion](https://img.shields.io/badge/Learning-Framer_Motion-purple)
+![Radix UI / ShadCN UI](https://img.shields.io/badge/Learning-Radix_UI_%2F_ShadCN_UI-ff69b4)
+![React Hook Form](https://img.shields.io/badge/Learning-React_Hook_Form-36c5f0)
+![Zustand](https://img.shields.io/badge/Learning-Zustand-f97316)
+![Storybook](https://img.shields.io/badge/Learning-Storybook-e44b97)
+![Prisma ORM](https://img.shields.io/badge/Learning-Prisma_ORM-0c344b)
+![Figma (Advanced)](https://img.shields.io/badge/Learning-Figma_Advanced-a259ff)
+![Design Systems](https://img.shields.io/badge/Learning-Design_Systems-4b5563)
+![Notion (Advanced)](https://img.shields.io/badge/Learning-Notion_Advanced-2f855a)
+
 
 ---
 
