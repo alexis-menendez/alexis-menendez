@@ -24,9 +24,9 @@ Welcome to my digital garden — a place where curiosity grows, code connects, a
 
 ---
 
-## About
+## 🔴 About
 
-### Journey
+### 🔴 Journey
 I didn’t arrive at tech by the usual path. I grew up navigating instability, and by the time I was a teenager, I had already learned what it meant to survive — to problem-solve under pressure, to adapt quickly, and to take responsibility when no one else would. I left home at 15 and began working, eventually enrolling in a welding and blacksmithing program. What followed was a winding road shaped by grit, curiosity, and the determination to build a life on my own terms.
 
 When I started that program, I had never used a power tool in my life. I was terrified — but I showed up anyway. Welding taught me more than fabrication or forge work; it taught me that I was strong, brave, and capable of learning things that once felt impossible. It gave me a language for resilience — a way to turn heat and pressure into structure, into something that could hold weight.
@@ -35,7 +35,7 @@ Eventually, I set aside the torch to put myself through college, pursuing a degr
 
 To support myself while continuing my academic path, I enrolled in a full-stack programming bootcamp — originally as a means to an end. But I’ve been surprised and thrilled to discover how much I enjoy the work. I find programming to be deeply creative and intellectually satisfying, offering new ways to solve problems and build meaningful tools. Now, I’m exploring how I can deepen my technical skills while continuing my research interests, with the long-term goal of developing a comprehensive, holistic skill set that bridges the emotional and the analytical, the scientific and the structural.
 
-### Now
+### 🔴 Now
 I’m:
 - Graduating with my Associates in Psychology
 - Wrapping up a rigorous coding bootcamp at Rice University
@@ -44,7 +44,7 @@ I’m:
   
 ---
 
-### Fun Facts & Passions
+### 🔴 Fun Facts & Passions
 - I’m passionate about both science and art, often blending the two in projects that explore cognition, emotion, and environment.
 - I deeply value quiet, reflective experiences in nature and draw inspiration from landscapes like the Texas plains and the shores of Puerto Rico.
 - I’ve worked in everything from nursing homes to college student services to metal sculpture studios, and I bring a multidisciplinary lens to all my work.
@@ -52,7 +52,7 @@ I’m:
 
 ---
 
-### Philosophy
+### 🔴 Philosophy
 > “Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”
 > ― Frank Lloyd Wright
 
@@ -75,9 +75,25 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 
 ---
 
-## Professional
+## 🟠 Professional
 
-### Tech Stack
+---
+
+### 🟠 Skills & Strengths
+
+My greatest strengths lie in how I approach problems, people, and projects. Here are the skills I bring to every team and codebase:
+
+- **Creative Problem Solving** – I approach challenges with curiosity and persistence, often drawing from diverse disciplines like art, psychology, and fabrication to find thoughtful, human-centered solutions.
+- **Collaboration & Communication** – Whether working in teams or mentoring peers, I prioritize clarity, empathy, and active listening. I know how to ask the right questions and how to translate complexity into shared understanding.
+- **Project Ownership** – I’m proactive and self-directed. I take initiative, manage my time well, and follow through on tasks with accountability and pride in my work.
+- **UI/UX Sensibility** – With a background in visual arts and psychology, I bring a unique perspective to user interfaces, balancing aesthetic design with intuitive functionality and accessibility.
+- **Documentation & Organization** – I excel at creating clear, accessible documentation for both codebases and team processes. From README files to team onboarding guides, I bring structure and clarity that helps everyone stay aligned and move faster.
+- **Resilience & Adaptability** – I thrive in fast-paced, evolving environments. From learning power tools with zero experience to diving into backend systems mid-project, I meet challenges with resourcefulness and grit.
+- **Systems Thinking** – I see the bigger picture — how frontend connects to backend, how users interact with features, and how small design decisions affect the larger system. This helps me build intentional, scalable solutions.
+
+---
+
+### 🟠 Tech Stack
 
 | **Category**               | **Technologies & Tools**                                                                    |
 | -------------------------- | ------------------------------------------------------------------------------------------- |
@@ -87,10 +103,12 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 | **Design Tools:**          | Figma, Canva                                                                                |
 | **Project Management:**    | Git, GitHub, GitHub Projects, Notion, Trello                                                |
 
+---
+
+### 🟠 In Developmet
 
 I’m always pushing myself to learn more and grow as a developer. 
 Below are tools and technologies I’m currently teaching myself to strengthen my technical toolkit and expand my ability to contribute across the stack.
-
 
 ![Zustand](https://img.shields.io/badge/Zustand-f97316?style=for-the-badge)
 ![TypeScript (Advanced)](https://img.shields.io/badge/TypeScript_Advanced-3178c6?style=for-the-badge)
@@ -103,23 +121,9 @@ Below are tools and technologies I’m currently teaching myself to strengthen m
 ![Design Systems](https://img.shields.io/badge/Design_Systems-4b5563?style=for-the-badge)
 ![Notion (Advanced)](https://img.shields.io/badge/Notion_Advanced-2f855a?style=for-the-badge)
 
-
 ---
 
-### Skills & Strengths
-While my tech stack reflects the tools I use, my greatest strengths lie in how I approach problems, people, and projects. Here are the skills I bring to every team and codebase:
-
-- **Creative Problem Solving** – I approach challenges with curiosity and persistence, often drawing from diverse disciplines like art, psychology, and fabrication to find thoughtful, human-centered solutions.
-- **Collaboration & Communication** – Whether working in teams or mentoring peers, I prioritize clarity, empathy, and active listening. I know how to ask the right questions and how to translate complexity into shared understanding.
-- **Project Ownership** – I’m proactive and self-directed. I take initiative, manage my time well, and follow through on tasks with accountability and pride in my work.
-- **UI/UX Sensibility** – With a background in visual arts and psychology, I bring a unique perspective to user interfaces, balancing aesthetic design with intuitive functionality and accessibility.
-- **Documentation & Organization** – I excel at creating clear, accessible documentation for both codebases and team processes. From README files to team onboarding guides, I bring structure and clarity that helps everyone stay aligned and move faster.
-- **Resilience & Adaptability** – I thrive in fast-paced, evolving environments. From learning power tools with zero experience to diving into backend systems mid-project, I meet challenges with resourcefulness and grit.
-- **Systems Thinking** – I see the bigger picture — how frontend connects to backend, how users interact with features, and how small design decisions affect the larger system. This helps me build intentional, scalable solutions.
-
----
-
-### Certifications & Education
+### 🟠 Certifications & Education
 
 | **Program**                            | **Institution**          | **Year** |
 |----------------------------------------|--------------------------|--------- |
@@ -129,21 +133,23 @@ While my tech stack reflects the tools I use, my greatest strengths lie in how I
 
 ---
 
-### Resume
+### 🟠 Resume
 
-Coming Soon!
-
----
-
-### Pinned Projects
-
-Coming Soon!
+***Coming Soon!***
 
 ---
 
-## GitHub-Specific Engagement
+### 🟠 Pinned Projects
 
-### GitHub Stats
+***Coming Soon!***
+
+---
+
+## 🟡 GitHub-Specific Engagement
+
+---
+
+### 🟡 GitHub Stats
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexis-menendez&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-menendez&layout=compact)
@@ -151,7 +157,7 @@ Coming Soon!
 
 ---
 
-### Contributions / OSS
+### 🟡 Contributions / OSS
 
 I'm currently exploring beginner-friendly open source projects and documentation-based contributions. I'm especially interested in projects that focus on mental health, education, and creative tools.
 
@@ -159,7 +165,9 @@ If you maintain an inclusive project and need help with UI, accessibility, docs,
 
 ---
 
-## Contact
+## 🟢 Contact
+
+---
 
 ### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
 
@@ -169,4 +177,4 @@ If you maintain an inclusive project and need help with UI, accessibility, docs,
 
 ---
 
-> Thanks for stopping by. Let’s build something meaningful — together!
+> 🔵 Thanks for stopping by. Let’s build something meaningful — together!
