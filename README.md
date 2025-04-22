@@ -1,6 +1,6 @@
 # Hi there, I’m Alex!
 
-Welcome to my digital garden — a place where curiosity grows, code connects, and art lives in the margins.
+Welcome to my profile!
 
 ---
 
