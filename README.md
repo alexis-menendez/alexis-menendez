@@ -1,4 +1,5 @@
 # Hi there, I’m Alex!
+
 ![Focus: Accessibility](https://img.shields.io/badge/Focus-Accessibility-blueviolet?style=flat-square)
 ![Value: Collaboration](https://img.shields.io/badge/Value-Collaboration-4b5563?style=flat-square)
 ![Role: Full Stack Dev](https://img.shields.io/badge/Role-Full_Stack_Developer-10b981?style=flat-square)
