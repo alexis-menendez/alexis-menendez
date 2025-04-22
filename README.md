@@ -8,8 +8,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 - [About](#about)  
   - [Journey](#journey)  
   - [Now](#now)  
