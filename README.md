@@ -1,10 +1,10 @@
-# 👋 Hi there, I’m Alex!
+# Hi there, I’m Alex!
 
 Welcome to my digital garden — a place where curiosity grows, code connects, and art lives in the margins.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [About](#about)
    - [Fun Facts](#fun-facts)
@@ -76,7 +76,10 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 ## 💼 Professional
 
 ### 🧰 Tech Stack
-```ts
-Languages: TypeScript, JavaScript, HTML, CSS
-Frameworks/Libraries: React, Node.js, Express
-Tools: Vite, MongoDB, Git, TailwindCSS, JWT, REST APIs
+
+| **Technology Stack**                                                          |
+| -------------------------- | ------------------------------------------------ |
+| **Languages:**             | TypeScript, JavaScript, HTML, CSS                |
+| **Franeworks/Libraries:**  | React, Node.js, Express                          |
+| **Tools:**                 | Vite, MongoDB, Git, TailwindCSS, JWT, REST APIs  |
+
