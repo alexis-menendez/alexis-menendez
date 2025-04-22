@@ -76,8 +76,6 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 
 ### 🧰 Tech Stack
 
-
-| -------------------------- | ------------------------------------------------ |
 | **Languages:**             | TypeScript, JavaScript, HTML, CSS                |
 | **Franeworks/Libraries:**  | React, Node.js, Express                          |
 | **Tools:**                 | Vite, MongoDB, Git, TailwindCSS, JWT, REST APIs  |
