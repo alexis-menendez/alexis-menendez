@@ -7,11 +7,10 @@ Welcome to my digital garden — a place where curiosity grows, code connects, a
 ## Table of Contents
 
 1. [About](#about)
-   - [Fun Facts](#fun-facts)
-   - [Philosophy / Values](#philosophy--values)
-   - [Passions & Hobbies](#passions--hobbies)
    - [Journey](#journey)
    - [Now](#now)
+   - [Philosophy](#philosophy)
+   - [Fun Facts](#fun-facts-&-passions)
 2. [Professional](#professional)
    - [Tech Stack](#tech-stack)
    - [Skills & Tools](#skills--tools)
@@ -77,7 +76,7 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 
 ### 🧰 Tech Stack
 
-| **Technology Stack**                                                          |
+| **Technology Stack**       |                                                  |
 | -------------------------- | ------------------------------------------------ |
 | **Languages:**             | TypeScript, JavaScript, HTML, CSS                |
 | **Franeworks/Libraries:**  | React, Node.js, Express                          |
