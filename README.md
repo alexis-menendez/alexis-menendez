@@ -126,7 +126,11 @@ While my tech stack reflects the tools I use, my greatest strengths lie in how I
 
 ### Certifications & Education
 
-Coming Soon!
+| **Program**                            | **Institution**          | **Year** |
+|----------------------------------------|--------------------------|--------- |
+| Full-Stack Web Development Certificate | Rice University          | 2025     |
+| Associate of Arts in Psychology        | Austin Community College | 2020     |
+| Welding & Blacksmithing Program        | Austin Community College | 2020     |
 
 ---
 
@@ -146,13 +150,17 @@ Coming Soon!
 
 ### GitHub Stats
 
-Coming Soon!
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexis-menendez&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-menendez&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexis-menendez&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
 ### Contributions / OSS
 
-Coming Soon!
+I'm currently exploring beginner-friendly open source projects and documentation-based contributions. I'm especially interested in projects that focus on mental health, education, and creative tools.
+
+If you maintain an inclusive project and need help with UI, accessibility, docs, or bug triage — reach out! I’d love to help.
 
 ---
 
@@ -165,3 +173,5 @@ Coming Soon!
 - **Email**: [alexis.menendez@austincc.edu](https://alex-menendez.onrender.com/contact)
 
 ---
+
+> Thanks for stopping by. Let’s build something meaningful — together!
