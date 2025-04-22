@@ -9,14 +9,13 @@ Welcome to my digital garden — a place where curiosity grows, code connects, a
 1. [About](#about)
    - [Journey](#journey)
    - [Now](#now)
-   - [Philosophy](#philosophy)
    - [Fun Facts](#fun-facts--passions)
+   - [Philosophy](#philosophy)
 2. [Professional](#professional)
    - [Tech Stack](#tech-stack)
    - [Skills & Strengths](#skills--strengths)
    - [Certifications & Education](#certifications--education)
-   - [Achievements](#achievements)
-   - [Resume / CV](#resume--cv)
+   - [Resume](#resume)
    - [Pinned Projects](#pinned-projects)
 3. [GitHub-Specific Engagement](#github-specific-engagement)
    - [GitHub Stats](#github-stats)
@@ -43,6 +42,16 @@ I’m:
 - Building **InnerOrbit**, a space-themed mental wellness app with the help of two other junior developers
 - Preparing to move to Portland, Oregon and begin the next chapter of my career and academic journey
   
+---
+
+### Fun Facts & Passions
+- I’m passionate about both science and art, often blending the two in projects that explore cognition, emotion, and environment.
+- I deeply value quiet, reflective experiences in nature and draw inspiration from landscapes like the Texas plains and the shores of Puerto Rico.
+- I’ve worked in everything from nursing homes to college student services to metal sculpture studios, and I bring a multidisciplinary lens to all my work.
+- Outside of coding, I sculpt, weld, paint, garden, dance (West Coast Swing & Fusion!), and make wearable art.
+
+---
+
 ### Philosophy
 > “Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”
 > ― Frank Lloyd Wright
@@ -63,12 +72,6 @@ I don’t build in a vacuum. The best work happens in dialogue—through feedbac
 >  ― Māori proverb
 
 In the end, what matters is who it’s for. My work is guided by a simple principle: build things that serve people. Not markets. Not metrics. People. That belief shapes the tools I design, the teams I join, and the systems I help create.
-
-### Fun Facts & Passions
-- I’m passionate about both science and art, often blending the two in projects that explore cognition, emotion, and environment.
-- I deeply value quiet, reflective experiences in nature and draw inspiration from landscapes like the Texas plains and the shores of Puerto Rico.
-- I’ve worked in everything from nursing homes to college student services to metal sculpture studios, and I bring a multidisciplinary lens to all my work.
-- Outside of coding, I sculpt, weld, paint, garden, dance (West Coast Swing & Fusion!), and make wearable art.
 
 ---
 
@@ -106,6 +109,8 @@ Below are tools and technologies I’m currently teaching myself to strengthen m
 |                           |                            |                                                                                          |
 | **Project Management:**   | Notion (Advanced)          | To document, plan, and track progress across personal and team-based projects            |
 
+---
+
 ### Skills & Strengths
 While my tech stack reflects the tools I use, my greatest strengths lie in how I approach problems, people, and projects. Here are the skills I bring to every team and codebase:
 
@@ -117,4 +122,46 @@ While my tech stack reflects the tools I use, my greatest strengths lie in how I
 - **Resilience & Adaptability** – I thrive in fast-paced, evolving environments. From learning power tools with zero experience to diving into backend systems mid-project, I meet challenges with resourcefulness and grit.
 - **Systems Thinking** – I see the bigger picture — how frontend connects to backend, how users interact with features, and how small design decisions affect the larger system. This helps me build intentional, scalable solutions.
 
+---
 
+### Certifications & Education
+
+Coming Soon!
+
+---
+
+### Resume
+
+Coming Soon!
+
+---
+
+### Pinned Projects
+
+Coming Soon!
+
+---
+
+## GitHub-Specific Engagement
+
+### GitHub Stats
+
+Coming Soon!
+
+---
+
+### Contributions / OSS
+
+Coming Soon!
+
+---
+
+## Contact
+
+### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
+
+- [**Portfolio**](https://alex-menendez.onrender.com/)
+- **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
+- **Email**: [alexis.menendez@austincc.edu](https://alex-menendez.onrender.com/contact)
+
+---
