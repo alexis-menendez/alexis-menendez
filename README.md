@@ -10,10 +10,10 @@ Welcome to my digital garden — a place where curiosity grows, code connects, a
    - [Journey](#journey)
    - [Now](#now)
    - [Philosophy](#philosophy)
-   - [Fun Facts](#fun-facts-&-passions)
+   - [Fun Facts](#fun-facts--passions)
 2. [Professional](#professional)
    - [Tech Stack](#tech-stack)
-   - [Skills & Tools](#skills--tools)
+   - [Skills & Strengths](#skills--strengths)
    - [Certifications & Education](#certifications--education)
    - [Achievements](#achievements)
    - [Resume / CV](#resume--cv)
@@ -72,25 +72,26 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 
 ---
 
-## 💼 Professional
+## Professional
 
-### 🧰 Tech Stack
+### Tech Stack
 
-| **Category**               | **Technologies & Tools**                         |
-| -------------------------- | ------------------------------------------------ |
-| **Languages:**             | TypeScript, JavaScript, HTML, CSS                |
-| **Frontend Development:**  | React, Vite, TailwindCSS                         |
-| **Backend Development:**   | Node.js, Express, MongoDB, JWT, REST APIs        |
-| **Design Tools:**          | Figma, Canva                                     |
-| **Project Management:**    | Git, GitHub, GitHub Projects, Notion, Trello     |
+| **Category**               | **Technologies & Tools**                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------------- |
+| **Languages:**             | TypeScript, JavaScript, HTML, CSS, SQL                                                      |
+| **Frontend Development:**  | React, Vite, TailwindCSS                                                                    |
+| **Backend Development:**   | Node.js, Express, MongoDB, JWT, REST APIs, PostgreSQL, GraphQL, Authentication (JWT, OAuth) |
+| **Design Tools:**          | Figma, Canva                                                                                |
+| **Project Management:**    | Git, GitHub, GitHub Projects, Notion, Trello                                                |
 
 
+I’m always pushing myself to learn more and grow as a developer. 
+Below are tools and technologies I’m currently teaching myself to strengthen my technical toolkit and expand my ability to contribute across the stack.
 
 
 | **Category**              | **Tool**                   | **Why I'm Learning It**                                                                  |
 |---------------------------|----------------------------|------------------------------------------------------------------------------------------|
 | **Languages:**            | TypeScript (Advanced)      | To write safer, scalable code and unlock advanced React and backend patterns             |
-|                           | SQL                        | To query and manage relational data effectively                                          |
 |                           |                            |                                                                                          |
 | **Frontend Development:** | Framer Motion              | To create expressive, animated UI that elevates user experience                          |
 |                           | Radix UI / ShadCN UI       | To build accessible, pre-styled components with full customization control               |
@@ -98,13 +99,22 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 |                           | Zustand                    | To manage state in React apps with a clean, intuitive API                                |
 |                           | Storybook                  | To document, test, and develop UI components in isolation                                |
 |                           |                            |                                                                                          |
-| **Backend Development:**  | PostgreSQL                 | To learn robust relational database modeling and querying                                |
-|                           | GraphQL                    | To build flexible APIs and reduce over-fetching or under-fetching of data                |
-|                           | Prisma ORM                 | To interact with databases using a type-safe and elegant schema-based interface          |
-|                           | Authentication (JWT, OAuth)| To implement secure login flows and protect routes in full-stack apps                    |
+| **Backend Development:**  | Prisma ORM                 | To interact with databases using a type-safe and elegant schema-based interface          |
 |                           |                            |                                                                                          |
 | **Design Tools:**         | Figma (Advanced)           | To create high-fidelity prototypes and communicate designs more clearly with dev teams   |
 |                           | Design Systems             | To ensure consistency and scalability across user interfaces                             |
 |                           |                            |                                                                                          |
-| **Project Management:**   | GitHub Projects            | To organize development workflows and collaborate with clarity and transparency          |
-|                           | Notion (Advanced)          | To document, plan, and track progress across personal and team-based projects            |
+| **Project Management:**   | Notion (Advanced)          | To document, plan, and track progress across personal and team-based projects            |
+
+### Skills & Strengths
+While my tech stack reflects the tools I use, my greatest strengths lie in how I approach problems, people, and projects. Here are the skills I bring to every team and codebase:
+
+- **Creative Problem Solving** – I approach challenges with curiosity and persistence, often drawing from diverse disciplines like art, psychology, and fabrication to find thoughtful, human-centered solutions.
+- **Collaboration & Communication** – Whether working in teams or mentoring peers, I prioritize clarity, empathy, and active listening. I know how to ask the right questions and how to translate complexity into shared understanding.
+- **Project Ownership** – I’m proactive and self-directed. I take initiative, manage my time well, and follow through on tasks with accountability and pride in my work.
+- **UI/UX Sensibility** – With a background in visual arts and psychology, I bring a unique perspective to user interfaces, balancing aesthetic design with intuitive functionality and accessibility.
+- **Documentation & Organization** – I excel at creating clear, accessible documentation for both codebases and team processes. From README files to team onboarding guides, I bring structure and clarity that helps everyone stay aligned and move faster.
+- **Resilience & Adaptability** – I thrive in fast-paced, evolving environments. From learning power tools with zero experience to diving into backend systems mid-project, I meet challenges with resourcefulness and grit.
+- **Systems Thinking** – I see the bigger picture — how frontend connects to backend, how users interact with features, and how small design decisions affect the larger system. This helps me build intentional, scalable solutions.
+
+
