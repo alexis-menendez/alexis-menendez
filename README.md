@@ -91,20 +91,20 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 |---------------------------|----------------------------|------------------------------------------------------------------------------------------|
 | **Languages:**            | TypeScript (Advanced)      | To write safer, scalable code and unlock advanced React and backend patterns             |
 |                           | SQL                        | To query and manage relational data effectively                                          |
-|---------------------------|----------------------------|------------------------------------------------------------------------------------------|
+|                           |                            |                                                                                          |
 | **Frontend Development:** | Framer Motion              | To create expressive, animated UI that elevates user experience                          |
 |                           | Radix UI / ShadCN UI       | To build accessible, pre-styled components with full customization control               |
 |                           | React Hook Form            | To simplify form state management and validation                                         |
 |                           | Zustand                    | To manage state in React apps with a clean, intuitive API                                |
 |                           | Storybook                  | To document, test, and develop UI components in isolation                                |
-|---------------------------|----------------------------|------------------------------------------------------------------------------------------|
+|                           |                            |                                                                                          |
 | **Backend Development:**  | PostgreSQL                 | To learn robust relational database modeling and querying                                |
 |                           | GraphQL                    | To build flexible APIs and reduce over-fetching or under-fetching of data                |
 |                           | Prisma ORM                 | To interact with databases using a type-safe and elegant schema-based interface          |
 |                           | Authentication (JWT, OAuth)| To implement secure login flows and protect routes in full-stack apps                    |
-|---------------------------|----------------------------|------------------------------------------------------------------------------------------|
+|                           |                            |                                                                                          |
 | **Design Tools:**         | Figma (Advanced)           | To create high-fidelity prototypes and communicate designs more clearly with dev teams   |
 |                           | Design Systems             | To ensure consistency and scalability across user interfaces                             |
-|---------------------------|----------------------------|------------------------------------------------------------------------------------------|
+|                           |                            |                                                                                          |
 | **Project Management:**   | GitHub Projects            | To organize development workflows and collaborate with clarity and transparency          |
 |                           | Notion (Advanced)          | To document, plan, and track progress across personal and team-based projects            |
