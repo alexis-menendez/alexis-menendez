@@ -55,7 +55,7 @@ I’m:
 
 ### Fun Facts & Passions
 - I’m passionate about both science and art, often blending the two in projects that explore cognition, emotion, and environment.
-- I deeply value quiet, reflective experiences in nature and draw inspiration from landscapes like the Texas plains and the shores of Puerto Rico.
+- I deeply value quiet, reflective experiences in nature and draw inspiration from landscapes like the Texas plains (where I was born) and the shores of Puerto Rico (where my family is from).
 - I’ve worked in everything from nursing homes to college student services to metal sculpture studios, and I bring a multidisciplinary lens to all my work.
 - Outside of coding, I sculpt, weld, paint, garden, dance (West Coast Swing & Fusion!), and make wearable art.
 
