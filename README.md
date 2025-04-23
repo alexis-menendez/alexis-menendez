@@ -36,11 +36,11 @@
 ## ✧ About
 
 ### Journey
-I didn’t take the usual path into tech. I grew up with instability and learned early how to survive, adapt under pressure, and take responsibility when no one else would. I left home at 15, started working, and eventually enrolled in a welding and blacksmithing program. From there, my path was shaped by grit, curiosity, and a deep need to build a life that was truly mine.
+I didn’t take the usual path into tech. I grew up with instability and learned early how to survive, adapt under pressure, and take responsibility when no one else would. I left home at 15, started working, and eventually enrolled in a welding and blacksmithing program. From there, my path was shaped by grit, curiosity, and the determination to build a life on my own terms.
 
 When I started that program, I had never touched a power tool. I was terrified, but I showed up anyway. Welding taught me more than how to shape metal; it showed me I was strong, brave, and capable of learning what once felt impossible. It gave me a language for resilience, turning heat and pressure into something that could hold weight.
 
-I eventually set aside the torch to put myself through college, pursuing a degree in psychology. I was drawn to how early experiences shape the brain and behavior, how people heal, and how systems can either fail or support that process. That passion led me to therapeutic psychedelics and neuropsychology, where science, healing, and social justice meet.
+I eventually set aside the torch to put myself through college, pursuing a degree in psychology. I was drawn to how early experiences shape the brain and behavior, how people heal, and how systems can either fail or support that process. That passion steered my interests towards therapeutic psychedelics and neuropsychology, where science, healing, and social justice intersect.
 
 To support myself through school, I enrolled in a full-stack bootcamp as a means to an end. But I’ve been surprised by how much I enjoy it. Programming is both creative and intellectually rich, giving me new ways to solve problems and build meaningful tools. Now I’m working to grow my technical skills alongside my research, aiming to develop a holistic skill set that connects the emotional with the analytical, the scientific with the structural.
 
