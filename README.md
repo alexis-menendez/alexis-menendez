@@ -36,9 +36,9 @@
 ## ✧ About
 
 ### Journey
-I didn’t arrive at tech by the usual path. I grew up navigating instability, and by the time I was a teenager, I had already learned what it meant to survive — to problem-solve under pressure, to adapt quickly, and to take responsibility when no one else would. I left home at 15 and began working, eventually enrolling in a welding and blacksmithing program. What followed was a winding road shaped by grit, curiosity, and the determination to build a life on my own terms.
+I didn’t arrive at tech by the usual path. I grew up navigating instability, and by the time I was a teenager, I had already learned what it meant to survive, to problem-solve under pressure, to adapt quickly, and to take responsibility when no one else would. I left home at 15 and began working, eventually enrolling in a welding and blacksmithing program. What followed was a winding road shaped by grit, curiosity, and the determination to build a life on my own terms.
 
-When I started that program, I had never used a power tool in my life. I was terrified — but I showed up anyway. Welding taught me more than fabrication or forge work; it taught me that I was strong, brave, and capable of learning things that once felt impossible. It gave me a language for resilience — a way to turn heat and pressure into structure, into something that could hold weight.
+When I started that program, I had never used a power tool in my life. I was terrified, but I showed up anyway! Welding taught me more than fabrication or forge work; it taught me that I was strong, brave, and capable of learning things that once felt impossible. It gave me a language for resilience — a way to turn heat and pressure into structure, into something that could hold weight.
 
 Eventually, I set aside the torch to put myself through college, pursuing a degree in psychology. I was drawn to understanding how early experiences shape the brain and behavior — how people heal, and how systems can fail or uplift that process. That passion steered my interests towards therapeutic psychedelics and neuropsychology, where science, healing, and social justice intersect.
 
