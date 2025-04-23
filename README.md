@@ -24,7 +24,7 @@
   - [Resume](#resume)  
   - [Pinned Projects](#pinned-projects)  
 
-- [GitHub-Engagement](#github-engagement)  
+- [GitHub Engagement](#github-engagement)  
   - [GitHub Stats](#github-stats)  
   - [Contributions / OSS](#contributions--oss)  
 
