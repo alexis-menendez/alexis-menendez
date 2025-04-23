@@ -67,25 +67,25 @@ I’m:
 > *“Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”*
 > *― Frank Lloyd Wright*
 
-Good design isn’t just about performance, it’s about presence. Technology should be compassionate, accessible, and human. The best tools don’t just work; they feel right. They invite reflection, not just interaction. In that sense, form isn’t secondary to function, it’s how function makes itself known.
+Good design isn’t just about performance, it’s about presence. Technology should be compassionate, accessible, and human. The best tools don’t just work; they feel right. They invite reflection, not just interaction. Form isn’t simply decoration, it’s how function makes itself known.
 
 #### Contemplative Construction
 > *“...but more often he would be alone, feeling through a certain quick instinct, which was almost a divination, that the secrets of art are best learned in secret, and that Beauty, like Wisdom, loves the lonely worshiper.”*
 >  *― Oscar Wilde, The Happy Prince and Other Tales*
 
-The most meaningful ideas often begin in silence. Away from noise, distraction, and deadlines, clarity emerges. I believe in starting with stillness and intention—contemplation before construction.
+There’s a kind of understanding that only solitude makes possible. Not because quiet is slow, but because it’s clear. I believe in carving out space for reflection, not to escape the work, but to connect more deeply with it. Some insights arrive best in stillness, unshaped by noise, untangled from performance. But I don’t stay in the quiet forever. Solitude is where the idea starts, collaboration is where it comes to life.
 
 #### Collective Craft
 > *“No one is born fully-formed: it is through self-experience in the world that we become what we are.”*
 >  *― Paulo Freire*
 
-Programming is often imagined as a solitary pursuit—one person, one screen, one problem. But real software isn’t built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds. I don’t build in a vacuum. The best work happens through feedback, friction, and shared momentum. Every bug fixed by someone else, every idea reshaped by collaboration, is part of that process. I value code review not as critique, but as a tool that enables me to build things better and bigger than I ever could have on my own.
+Programming is often imagined as a solitary pursuit, but great isn't built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds. I don’t build in a vacuum. Code reviews aren’t critique, they’re how we scale insight and enable us to build things better and bigger than we ever could have on our own.
 
 #### People Before Product
 > *“What is the most important thing in the world? It is people, it is people, it is people.”*
 >  *― Māori proverb*
 
-In the end, what matters is who it’s for. My work is guided by a simple principle: build things that serve people. Not markets. Not metrics. People. That belief shapes the tools I design, the teams I join, and the systems I help create.
+In the end, what matters is who it’s for. My guiding principle is simple: build for people. Not trends. Not growth charts. If it doesn’t serve someone, it’s not worth building.
 
 ---
 
