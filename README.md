@@ -154,7 +154,6 @@ Below are tools and technologies I’m currently teaching myself to strengthen m
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexis-menendez&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-menendez&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=alexis-menendez&theme=transparent)](https://git.io/streak-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexis-menendez&bg_color=ffffff&color=000000&line=3b82f6&point=10b981&area=true&hide_border=true)
 
 ---
