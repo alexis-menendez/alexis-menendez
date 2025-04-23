@@ -36,13 +36,13 @@
 ## ✧ About
 
 ### Journey
-I didn’t arrive at tech by the usual path. I grew up navigating instability, and by the time I was a teenager, I had already learned what it meant to survive, to problem-solve under pressure, to adapt quickly, and to take responsibility when no one else would. I left home at 15 and began working, eventually enrolling in a welding and blacksmithing program. What followed was a winding road shaped by grit, curiosity, and the determination to build a life on my own terms.
+I didn’t take the usual path into tech. I grew up with instability and learned early how to survive, adapt under pressure, and take responsibility when no one else would. I left home at 15, started working, and eventually enrolled in a welding and blacksmithing program. From there, my path was shaped by grit, curiosity, and a deep need to build a life that was truly mine.
 
-When I started that program, I had never used a power tool in my life. I was terrified, but I showed up anyway! Welding taught me more than fabrication or forge work; it taught me that I was strong, brave, and capable of learning things that once felt impossible. It gave me a language for resilience — a way to turn heat and pressure into structure, into something that could hold weight.
+When I started that program, I had never touched a power tool. I was terrified, but I showed up anyway. Welding taught me more than how to shape metal; it showed me I was strong, brave, and capable of learning what once felt impossible. It gave me a language for resilience, turning heat and pressure into something that could hold weight.
 
-Eventually, I set aside the torch to put myself through college, pursuing a degree in psychology. I was drawn to understanding how early experiences shape the brain and behavior — how people heal, and how systems can fail or uplift that process. That passion steered my interests towards therapeutic psychedelics and neuropsychology, where science, healing, and social justice intersect.
+I eventually set aside the torch to put myself through college, pursuing a degree in psychology. I was drawn to how early experiences shape the brain and behavior, how people heal, and how systems can either fail or support that process. That passion led me to therapeutic psychedelics and neuropsychology, where science, healing, and social justice meet.
 
-To support myself while continuing my academic path, I enrolled in a full-stack programming bootcamp originally as a means to an end. But I’ve been surprised and thrilled to discover how much I enjoy the work. I find programming to be deeply creative and intellectually satisfying, offering new ways to solve problems and build meaningful tools. Now, I’m exploring how I can deepen my technical skills while continuing my research interests, with the long-term goal of developing a comprehensive, holistic skill set that bridges the emotional and the analytical, the scientific and the structural.
+To support myself through school, I enrolled in a full-stack bootcamp as a means to an end. But I’ve been surprised by how much I enjoy it. Programming is both creative and intellectually rich, giving me new ways to solve problems and build meaningful tools. Now I’m working to grow my technical skills alongside my research, aiming to develop a holistic skill set that connects the emotional with the analytical, the scientific with the structural.
 
 ### Now
 I’m:
