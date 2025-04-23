@@ -1,4 +1,4 @@
-# Hi there, I’m Alex!
+# ✧ Hi there, I’m Alex!
 
 ### Welcome to my profile!
 
