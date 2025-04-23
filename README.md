@@ -33,7 +33,7 @@
 
 ---
 
-## 🔴 About
+## ✧ About
 
 ### Journey
 I didn’t arrive at tech by the usual path. I grew up navigating instability, and by the time I was a teenager, I had already learned what it meant to survive — to problem-solve under pressure, to adapt quickly, and to take responsibility when no one else would. I left home at 15 and began working, eventually enrolling in a welding and blacksmithing program. What followed was a winding road shaped by grit, curiosity, and the determination to build a life on my own terms.
@@ -84,7 +84,7 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 
 ---
 
-## 🟠 Professional
+## ✧ Professional
 
 ---
 
@@ -154,7 +154,7 @@ Below are tools and technologies I’m currently teaching myself to strengthen m
 
 ---
 
-## 🟡 GitHub-Specific Engagement
+## ✧ GitHub-Specific Engagement
 
 ---
 
@@ -175,7 +175,7 @@ If you maintain an inclusive project and need help with UI, accessibility, docs,
 
 ---
 
-## 🟢 Contact
+## ✧ Contact
 
 ---
 
@@ -187,4 +187,4 @@ If you maintain an inclusive project and need help with UI, accessibility, docs,
 
 ---
 
-> 🔵 Thanks for stopping by. Let’s build something meaningful — together!
+> ✧ Thanks for stopping by. Let’s build something meaningful — together!
