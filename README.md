@@ -119,15 +119,10 @@ I’m always pushing myself to learn more and grow as a developer.
 Below are tools and technologies I’m currently teaching myself to strengthen my technical toolkit and expand my ability to contribute across the stack.
 
 ![Zustand](https://img.shields.io/badge/Zustand-f97316?style=for-the-badge)
-![TypeScript (Advanced)](https://img.shields.io/badge/TypeScript_Advanced-3178c6?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-8a2be2?style=for-the-badge)
 ![Radix UI / ShadCN UI](https://img.shields.io/badge/Radix_UI_%2F_ShadCN_UI-ff69b4?style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-36c5f0?style=for-the-badge)
 ![Storybook](https://img.shields.io/badge/Storybook-e44b97?style=for-the-badge)
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-0c344b?style=for-the-badge)
-![Figma (Advanced)](https://img.shields.io/badge/Figma_Advanced-a259ff?style=for-the-badge)
-![Design Systems](https://img.shields.io/badge/Design_Systems-4b5563?style=for-the-badge)
-![Notion (Advanced)](https://img.shields.io/badge/Notion_Advanced-2f855a?style=for-the-badge)
 
 ---
 
@@ -174,7 +169,7 @@ If you maintain an inclusive project and need help with UI, accessibility, docs,
 
 ## ✧ Contact
 
-### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
+### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Full-Stack Developer with a focus on UI/UX and team collaboration.
 
 - **Website**: [Crafted-By-Alex](https://alex-menendez.onrender.com/)
 - **LinkedIn**: [in/alex-d-menendez](https://www.linkedin.com/in/alex-d-menendez/)
