@@ -65,19 +65,14 @@ I’m:
 > *“Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”*
 > *― Frank Lloyd Wright*
 
-Good design isn’t just about performance—it’s about presence. Technology should be compassionate, accessible, and human. The best tools don’t just work; they feel right. They invite reflection, not just interaction. In that sense, form isn’t secondary to function—it’s how function makes itself known.
+Good design isn’t just about performance, it’s about presence. Technology should be compassionate, accessible, and human. The best tools don’t just work; they feel right. They invite reflection, not just interaction. In that sense, form isn’t secondary to function, it’s how function makes itself known.
 
 > *“...but more often he would be alone, feeling through a certain quick instinct, which was almost a divination, that the secrets of art are best learned in secret, and that Beauty, like Wisdom, loves the lonely worshiper.”*
 >  *― Oscar Wilde, The Happy Prince and Other Tales*
 
 The most meaningful ideas often begin in silence. Away from noise, distraction, and deadlines, clarity emerges. I believe in starting with stillness—contemplation before construction. But solitude is only the first step.
 
-Programming is often imagined as a solitary pursuit—one person, one screen, one problem. But real software isn’t built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds.
-
-> *“No one is born fully-formed: it is through self-experience in the world that we become what we are.”*
->  *― Paulo Freire*
-
-I don’t build in a vacuum. The best work happens in dialogue—through feedback, friction, and shared momentum. Every bug fixed by someone else, every idea reshaped by collaboration, is part of that process. I value code review not as critique, but as co-creation.
+Programming is often imagined as a solitary pursuit—one person, one screen, one problem. But real software isn’t built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds. I don’t build in a vacuum. The best work happens through feedback, friction, and shared momentum. Every bug fixed by someone else, every idea reshaped by collaboration, is part of that process. I value code review not as critique, but as a tool that enables me to build things better and bigger than I ever could have on my own.
 
 > *“What is the most important thing in the world? It is people, it is people, it is people.”*
 >  *― Māori proverb*
