@@ -63,7 +63,7 @@ I’m:
 
 ### Philosophy
 
-My approach to design and development is guided by four core beliefs:
+My approach to design and development is guided by three core beliefs:
 
 #### 1. The Function of Form
 > *“Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”*
@@ -82,12 +82,6 @@ There’s a kind of understanding that only solitude makes possible. Not because
 >  *― Paulo Freire*
 
 Programming is often imagined as a solitary pursuit, but great work isn't built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds. I don’t build in a vacuum. Code reviews aren’t critique, they’re how we scale insight and enable us to build things better and bigger than we ever could have on our own.
-
-#### 4. People Before Product
-> *“What is the most important thing in the world? It is people, it is people, it is people.”*
->  *― Māori proverb*
-
-In the end, what matters is who it’s for. My guiding principle is simple: build for people. Not trends. Not growth charts. If it doesn’t serve someone, it’s not worth building.
 
 ---
 
