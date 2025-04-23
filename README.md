@@ -69,7 +69,7 @@ My approach to design and development is guided by four core beliefs:
 > *“Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”*
 > *― Frank Lloyd Wright*
 
-Design is not what you add after the “real work” is done. I believe that good design *is* good function. A product should feel intuitive, welcoming—even beautiful. Because beauty isn’t indulgent—it builds trust. It invites use. Form isn’t simply decoration, it’s how function makes itself known. Without it, function is not functional.
+Design is not what you add after the “real work” is done. I believe that good design *is* good function. A product should feel intuitive, welcoming—even beautiful. Because beauty isn’t indulgent—it builds trust. It invites use. Form isn’t simply decoration, it’s how function makes itself known. 
 
 #### 2. Contemplative Construction
 > *“...but more often he would be alone, feeling through a certain quick instinct, which was almost a divination, that the secrets of art are best learned in secret, and that Beauty, like Wisdom, loves the lonely worshiper.”*
@@ -81,7 +81,7 @@ There’s a kind of understanding that only solitude makes possible. Not because
 > *“No one is born fully-formed: it is through self-experience in the world that we become what we are.”*
 >  *― Paulo Freire*
 
-Programming is often imagined as a solitary pursuit, but great isn't built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds. I don’t build in a vacuum. Code reviews aren’t critique, they’re how we scale insight and enable us to build things better and bigger than we ever could have on our own.
+Programming is often imagined as a solitary pursuit, but great work isn't built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds. I don’t build in a vacuum. Code reviews aren’t critique, they’re how we scale insight and enable us to build things better and bigger than we ever could have on our own.
 
 #### 4. People Before Product
 > *“What is the most important thing in the world? It is people, it is people, it is people.”*
