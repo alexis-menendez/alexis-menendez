@@ -63,13 +63,13 @@ I’m:
 
 ### Philosophy
 
-My philosophy as a developer and designer can be boiled down into four points:
+My approach to design and development is guided by four core beliefs:
 
 #### 1. The Function of Form
 > *“Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”*
 > *― Frank Lloyd Wright*
 
-Good design isn’t just about performance, it’s about presence. Technology should be compassionate, accessible, and human. The best tools don’t just work; they feel right. They invite reflection, not just interaction. Form isn’t simply decoration, it’s how function makes itself known.
+Design is not what you add after the “real work” is done. I believe that good design *is* good function. A product should feel intuitive, welcoming—even beautiful. Because beauty isn’t indulgent—it builds trust. It invites use. Form isn’t simply decoration, it’s how function makes itself known. Without it, function is not functional.
 
 #### 2. Contemplative Construction
 > *“...but more often he would be alone, feeling through a certain quick instinct, which was almost a divination, that the secrets of art are best learned in secret, and that Beauty, like Wisdom, loves the lonely worshiper.”*
