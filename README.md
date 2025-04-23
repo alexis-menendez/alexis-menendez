@@ -14,7 +14,7 @@
   - [Journey](#journey)  
   - [Now](#now)  
   - [Fun Facts](#fun-facts--passions)  
-  - [Philosophy](#philosophy)  
+  - [Principles I Code By](#principles-i-code-by)  
 
 - [Professional](#-professional)  
   - [Skills & Strengths](#skills--strengths)  
@@ -61,7 +61,7 @@ I’m:
 
 ---
 
-### Philosophy
+### Principles I Code By
 
 My approach to design and development is guided by three core beliefs:
 
@@ -75,7 +75,7 @@ Design is not what you add after the “real work” is done. I believe that goo
 > *“...but more often he would be alone, feeling through a certain quick instinct, which was almost a divination, that the secrets of art are best learned in secret, and that Beauty, like Wisdom, loves the lonely worshiper.”*
 >  *― Oscar Wilde, The Happy Prince and Other Tales*
 
-There’s a kind of understanding that only solitude makes possible. Not because quiet is slow, but because it’s clear. I believe in carving out space for reflection, not to escape the work, but to connect more deeply with it. Some insights arrive best in stillness, unshaped by noise, untangled from performance. But I don’t stay in the quiet forever. Solitude is where the idea starts, collaboration is where it comes to life.
+There’s a kind of understanding that only solitude makes possible. I believe in reflection as part of the process. Some insights arrive best in stillness, unshaped by noise and the pressure to perform. But I don’t stay in the quiet forever. Solitude is where the idea starts, collaboration is where it comes to life.
 
 #### 3. Collective Craft
 > *“No one is born fully-formed: it is through self-experience in the world that we become what we are.”*
