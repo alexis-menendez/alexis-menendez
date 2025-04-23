@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
-- [About](#about)  
+- [About](#--about)  
   - [Journey](#journey)  
   - [Now](#now)  
   - [Fun Facts](#fun-facts--passions)  
   - [Philosophy](#philosophy)  
 
-- [Professional](#professional)  
+- [Professional](#--professional)  
   - [Skills & Strengths](#skills--strengths)  
   - [In Development](#in-development)  
   - [Tech Stack](#tech-stack)  
@@ -24,11 +24,11 @@
   - [Resume](#resume)  
   - [Pinned Projects](#pinned-projects)  
 
-- [GitHub Engagement](#github-engagement)  
+- [GitHub Engagement](#--github-engagement)  
   - [GitHub Stats](#github-stats)  
   - [Contributions / OSS](#contributions--oss)  
 
-- [Contact](#contact)
+- [Contact](#--contact)
   
 
 ---
