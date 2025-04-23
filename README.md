@@ -42,7 +42,7 @@ When I started that program, I had never touched a power tool. I was terrified, 
 
 I eventually set aside the torch to put myself through college, pursuing a degree in psychology. I was drawn to how early experiences shape the brain and behavior, how people heal, and how systems can either fail or support that process. That passion steered my interests towards therapeutic psychedelics and neuropsychology, where science, healing, and social justice intersect.
 
-To support myself through school, I enrolled in a full-stack bootcamp as a means to an end. But I’ve been thrilled to discover that programming is deeply creative and intellectually satisfying, offering new ways to solve problems and build meaningful tools.. Now I’m working to grow my technical skills alongside my research, aiming to develop a holistic skill set that connects the emotional with the analytical, the scientific with the structural.
+To support myself through school, I enrolled in a full-stack bootcamp as a means to an end. But I’ve been thrilled to discover that programming is deeply creative and intellectually satisfying, offering new ways to solve problems and build meaningful tools. Now I’m working to grow my technical skills alongside my research, aiming to develop a holistic skill set that connects the emotional with the analytical, the scientific with the structural.
 
 ### Now
 I’m:
