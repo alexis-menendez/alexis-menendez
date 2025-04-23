@@ -63,7 +63,7 @@ I’m:
 
 ### Philosophy
 
-#### The Importance of Form
+#### The Function of Form
 > *“Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”*
 > *― Frank Lloyd Wright*
 
