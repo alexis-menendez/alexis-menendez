@@ -63,25 +63,27 @@ I’m:
 
 ### Philosophy
 
-#### The Function of Form
+My philosophy as a developer and designer can be boiled down into four points:
+
+#### 1. The Function of Form
 > *“Form follows function — that has been misunderstood. Form and function should be one, joined in a spiritual union.”*
 > *― Frank Lloyd Wright*
 
 Good design isn’t just about performance, it’s about presence. Technology should be compassionate, accessible, and human. The best tools don’t just work; they feel right. They invite reflection, not just interaction. Form isn’t simply decoration, it’s how function makes itself known.
 
-#### Contemplative Construction
+#### 2. Contemplative Construction
 > *“...but more often he would be alone, feeling through a certain quick instinct, which was almost a divination, that the secrets of art are best learned in secret, and that Beauty, like Wisdom, loves the lonely worshiper.”*
 >  *― Oscar Wilde, The Happy Prince and Other Tales*
 
 There’s a kind of understanding that only solitude makes possible. Not because quiet is slow, but because it’s clear. I believe in carving out space for reflection, not to escape the work, but to connect more deeply with it. Some insights arrive best in stillness, unshaped by noise, untangled from performance. But I don’t stay in the quiet forever. Solitude is where the idea starts, collaboration is where it comes to life.
 
-#### Collective Craft
+#### 3. Collective Craft
 > *“No one is born fully-formed: it is through self-experience in the world that we become what we are.”*
 >  *― Paulo Freire*
 
 Programming is often imagined as a solitary pursuit, but great isn't built alone. It’s shaped in dialogue, strengthened by collaboration, and brought to life through the contributions of many minds. I don’t build in a vacuum. Code reviews aren’t critique, they’re how we scale insight and enable us to build things better and bigger than we ever could have on our own.
 
-#### People Before Product
+#### 4. People Before Product
 > *“What is the most important thing in the world? It is people, it is people, it is people.”*
 >  *― Māori proverb*
 
