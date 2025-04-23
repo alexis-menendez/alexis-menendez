@@ -92,7 +92,7 @@ My greatest strengths lie in how I approach problems, people, and projects. Here
 
 - **Creative Problem Solving** – I approach challenges with curiosity and persistence, often drawing from diverse disciplines like art, psychology, and fabrication to find thoughtful, human-centered solutions.
 - **Collaboration & Communication** – Whether working in teams or mentoring peers, I prioritize clarity, empathy, and active listening. I know how to ask the right questions and how to translate complexity into shared understanding.
-- **Project Ownership** – I’m proactive and self-directed. I take initiative, manage my time well, and follow through on tasks with accountability and pride in my work.
+- **Project Ownership & Leadership** – I’m proactive and self-directed, often stepping into leadership roles to set direction, coordinate tasks, and support team alignment. I take initiative, manage my time well, and follow through on tasks with accountability and pride in my work.
 - **UI/UX Sensibility** – With a background in visual arts and psychology, I bring a unique perspective to user interfaces, balancing aesthetic design with intuitive functionality and accessibility.
 - **Documentation & Organization** – I excel at creating clear, accessible documentation for both codebases and team processes. From README files to team onboarding guides, I bring structure and clarity that helps everyone stay aligned and move faster.
 - **Resilience & Adaptability** – I thrive in fast-paced, evolving environments. From learning power tools with zero experience to diving into backend systems mid-project, I meet challenges with resourcefulness and grit.
