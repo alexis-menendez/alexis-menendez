@@ -181,4 +181,4 @@ If you maintain an inclusive project and need help with UI, accessibility, docs,
 
 ---
 
-> ✧ Thanks for stopping by. Let’s build something meaningful — together!
+> ✧ *Thanks for stopping by. Let’s build something meaningful — together!*
