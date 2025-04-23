@@ -86,8 +86,6 @@ In the end, what matters is who it’s for. My work is guided by a simple princi
 
 ## ✧ Professional
 
----
-
 ### Skills & Strengths
 
 My greatest strengths lie in how I approach problems, people, and projects. Here are the skills I bring to every team and codebase:
@@ -156,8 +154,6 @@ Below are tools and technologies I’m currently teaching myself to strengthen m
 
 ## ✧ GitHub Engagement
 
----
-
 ### GitHub Stats
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexis-menendez&show_icons=true&theme=transparent)
@@ -176,8 +172,6 @@ If you maintain an inclusive project and need help with UI, accessibility, docs,
 ---
 
 ## ✧ Contact
-
----
 
 ### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
 
