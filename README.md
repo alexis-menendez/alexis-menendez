@@ -73,7 +73,7 @@ Good design isn’t just about performance, it’s about presence. Technology sh
 > *“...but more often he would be alone, feeling through a certain quick instinct, which was almost a divination, that the secrets of art are best learned in secret, and that Beauty, like Wisdom, loves the lonely worshiper.”*
 >  *― Oscar Wilde, The Happy Prince and Other Tales*
 
-The most meaningful ideas often begin in silence. Away from noise, distraction, and deadlines, clarity emerges. I believe in starting with stillness—contemplation before construction.
+The most meaningful ideas often begin in silence. Away from noise, distraction, and deadlines, clarity emerges. I believe in starting with stillness and intention—contemplation before construction.
 
 #### Collective Craft
 > *“No one is born fully-formed: it is through self-experience in the world that we become what we are.”*
