@@ -47,7 +47,7 @@ To support myself through school, I enrolled in a full-stack bootcamp as a means
 ### Now
 I’m:
 - Graduating with my Associates in Psychology
-- Wrapping up a rigorous coding bootcamp at Rice University
+- Wrapping up a rigorous full-stack bootcamp at Rice University
 - Building **InnerOrbit**, a space-themed mental wellness app with the help of two other junior developers
 - Preparing to move to Portland, Oregon and begin the next chapter of my career and academic journey
   
